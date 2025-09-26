@@ -1,8 +1,8 @@
 # Demo Repository – Data Management & Forecasting Example
 
-This repository contains a **demonstration of data management, compilation, and forecasting workflows** in Python, based on a cleaned version of a Master’s dissertation project.
+This repository contains a demonstration of data management, compilation, and forecasting workflows in Python, based on a cleaned version of a Master’s project.
 
-⚠️ **Note:** All data included here are **synthetic** and generated solely for demonstration purposes.  
+Note: All data included here are "synthetic" and generated solely for demonstration purposes.  
 No licensed or confidential data are included.
 
 ## Contents
